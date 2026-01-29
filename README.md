@@ -42,15 +42,13 @@ Minha jornada profissional inclui experiências na **CSN** (com instrumentação
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-<br/>
+---
 
 ### 📊 Estatísticas
 
-<div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leozin2412&show_icons=true&theme=dracula&count_private=true" height="150" alt="Leonardo's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozin2412&layout=compact&theme=dracula" height="150" alt="Top Langs" />
-  </a>
-</div>
+<img 
+  align="left"
+  height="200"
+  style="padding-right:10px;"
+  src="https://github-readme-stats.vercel.app/api?username=leozin2412&show_icons=true" />
+
