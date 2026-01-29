@@ -1,10 +1,10 @@
 # 👨‍💻 Leonardo Monteiro
 
-### Desenvolvedor de Automações & Fullstack
+### Software Engineer
 
-Me chamo Leonardo Moreira Monteiro, tenho 20 anos e sou natural de Volta Redonda, RJ. Sou Técnico em Automação Industrial formado pelo IFRJ e atualmente estou cursando Sistemas de Informação na UniFOA.
+My name is Leonardo Moreira Monteiro, a 20-year-old developer from Volta Redonda, RJ. I hold a technical degree in Industrial Automation from IFRJ and am currently pursuing a degree in Information Systems at UniFOA.
 
-Minha jornada profissional inclui experiências na **CSN** (com instrumentação industrial) e atualmente na **Tradsul**, onde desenvolvo automações para otimizar processos administrativos, crio scripts em Python e gerencio bancos de dados. Sou apaixonado por transformar tarefas manuais em soluções inteligentes.
+Specializing in **JavaScript (Node.js)**, I currently develop automation solutions and manage databases at **Tradsul**. With a strong industrial background (**CSN**), I am actively expanding my skills in **Python** to create even smarter workflows.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/leonardommonteiro/">
@@ -20,7 +20,7 @@ Minha jornada profissional inclui experiências na **CSN** (com instrumentação
 
 ---
 
-### 🚀 Linguagens e Tecnologias
+### 🛠 Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -44,11 +44,15 @@ Minha jornada profissional inclui experiências na **CSN** (com instrumentação
 
 ---
 
-### 📊 Estatísticas
+### 📊 GitHub Stats
+<img 
+  align="left"
+  height="200"
+  style="padding-right:10px;"
+  src="https://github-readme-stats-fast.vercel.app/api?username=Leozin2412&show_icons=true&theme=tokyonight&include_all_commits=true" />
 
 <img 
   align="left"
   height="200"
   style="padding-right:10px;"
-  src="https://github-readme-stats.vercel.app/api?username=leozin2412&show_icons=true" />
-
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Leozin2412&layout=compact&theme=tokyonight"/>
