@@ -47,6 +47,10 @@ Minha jornada profissional inclui experiências na **CSN** (com instrumentação
 ### 📊 Estatísticas
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leozin2412&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozin2412&layout=compact&theme=dracula"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leozin2412&show_icons=true&theme=dracula&count_private=true" height="150" alt="Leonardo's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozin2412&layout=compact&theme=dracula" height="150" alt="Top Langs" />
+  </a>
 </div>
